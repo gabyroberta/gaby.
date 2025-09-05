@@ -1,5 +1,10 @@
+:root {
+  --text-color: #DBE4EF;
+  --card-frot-color: #144480;
+  --card-back-color: #00F4BF;
+}
 body {
-    background-color: bisque;
+    background:url('img/bg-desktop.webp');
      font-family: Bai Jamjuree;
 }
 footer {
@@ -28,6 +33,7 @@ footer p{
     flex-basis: calc(33% - 6rem);
 }
     .cartao__conteudo {
+
     text-align: center;
     /*background-color: aquamarine;*/
     height: 100%;
